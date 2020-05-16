@@ -42,7 +42,8 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta property="se:collection">Solar Queen</meta>
+		<meta property="belongs-to-collection" id="collection-1">Solar Queen</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">Dane Thorson travels to the safari planet Khatka and encounters an evil witch doctor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Voodoo Planet&lt;/i&gt; is the third in a series of novels featuring the adventures of Dane Thorson and the spaceship &lt;i&gt;Solar Queen&lt;/i&gt;, written in the 1950s by &lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt; under her male pseudonym, Andrew North. In this installment, Dane and his shipmates land on the safari planet Khatka, settled by African refugees of an atomic race war on Earth. They soon face off with a witch doctor seeking to take over the planet.&lt;/p&gt;
